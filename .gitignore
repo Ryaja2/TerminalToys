@@ -1,0 +1,82 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+.vs/
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE - Visual Studio / Visual Studio Code
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj*
+*.vcproj*
+*.dsp
+*.dsw
+
+# IDE - CLion
+cmake-build-*/
+
+# IDE - Code::Blocks
+*.depend
+*.layout
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency directories
+conan_imports_manifest/
+conanfile.txt.orig
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+*.bak
+
+# Note: config.ini is intentionally tracked in the repository
+
