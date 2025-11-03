@@ -1,7 +1,6 @@
-# TDnoise
+# TerminalToys
 
-TDnoise (Terminal Display noise) is a C++ tool to generate noise on the terminal for aesthetic purposes.
-
+TerminalToys is a suite of ambient effects and such for your terminal.
 ## Instalation
 
 [insert here]
